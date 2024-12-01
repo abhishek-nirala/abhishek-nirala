@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Abhishek Kumar Nirala
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Backend in Node.js
+- 🌱 I’m currently learning Backend in Node.js and Nextjs
+- 🛹Skills - Reactjs, Nextjs, Nodejs
 - 💞️ I’m looking to collaborate on interesting and fun Projects 
 - 📫 @abhi_Nirala01 on X.com  
 - 😄 Pronouns: He/Him 
